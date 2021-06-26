@@ -1,15 +1,16 @@
-<p align="center">
-  <a href="https://furry.icu">
-    <img alt="furryicu" src="./furryicu.png" style="width: 55px; height: 55px;">
-  </a>
-</p>
+<a href="https://furry.icu">
+    <img alt="furryicu" src="./furryicu.ico" style="width: 60px; height: 60px;" align="left">
+</a>
 
-<p align="center">
-「 拾兽一 - FURRY ICU 」
-</p>
-<p align="center">
-图标存储库
-</p>
+<div align="left">
+
+# 「 拾兽一 - FURRY ICU 」
+
+**_<a href="https://furry.icu">WWW.FURRY.ICU</a>_** / 📝 图标存储库
+
+</div>
+
+<hr />
 
 ## 特别鸣谢
 

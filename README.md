@@ -20,11 +20,13 @@
 
 绘制作者：`昴亚 (Mao_Ya)`
 
+鸣谢：[@mnixry](https://github.com/mnixry)
+
 ## 图标
 
 拾兽一 | `暗色 #1c252a, #202124`
 
-<img alt="furryicu_dark" src="./png/furryicu.png" style="width: 85px; height: 85px;">
+<img alt="furryicu_dark" src="./png/furryicu_bordered.png" style="width: 85px; height: 85px;">
 
 [ 3780x3780 - 原始大小 ]
 
@@ -40,7 +42,7 @@
 
 拾兽一 | `暗色线条 #1c252a, #202124`
 
-<img alt="furryicu_line_dark" src="./png/furryicu_noEdit.png" style="width: 85px; height: 85px;">
+<img alt="furryicu_line_dark" src="./png/furryicu_noEdit_bordered.png" style="width: 85px; height: 85px;">
 
 [ 4016x4016 - 原始大小]
 
